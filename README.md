@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning AWS
+- 🌱 I’m doing vibe coding
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about anything
 - 📫 How to reach me:
